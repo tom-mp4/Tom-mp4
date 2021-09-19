@@ -32,3 +32,4 @@
 
 - 📝 Discord MP : T.O.M#2556
 - Twitter: [@Tom_sfx](https://twitter.com/Tom_sfx)
+- Mail me : [contact@tom-mrt.fr](mailto:contact@tom-mrt.fr) 
