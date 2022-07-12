@@ -7,7 +7,6 @@
 
 - I am creating [WWAH](https://github.com/wwah), an amazing online chat project.
 - I am a video editor for [Graven](https://www.youtube.com/user/Gravenilvectuto) and other clients.
-- I make movies like [this](https://www.youtube.com/watch?v=BkOu2FzbLvI&t=6s).
 - I love discover and learn everythings.
 
 <br>
