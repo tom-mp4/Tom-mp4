@@ -5,8 +5,8 @@
 
 ## Who am I ?
 
-- I am creating unique user experiences, an amazing online chat project that you can see [here](https://tom-mrt.fr).
-- I am a video editor for [Graven](https://www.youtube.com/user/Gravenilvectuto) and other clients.
+- I am creating unique user experiences, an amazing project that you can see [here](https://tom-mrt.fr).
+- I am a make movies
 - I love discover and learn everythings.
 
 <br>
