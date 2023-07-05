@@ -29,6 +29,6 @@
 
 ## Contact me here :
 
-- 📝 Discord MP : T.O.M#2556
+- 📝 Discord MP : twjm
 - Twitter: [@Tom_sfx](https://twitter.com/Tom_sfx)
 - Mail me : [contact@tom-mrt.fr](mailto:contact@tom-mrt.fr) 
