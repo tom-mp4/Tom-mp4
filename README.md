@@ -6,7 +6,7 @@
 ## Who am I ?
 
 - I am creating unique user experiences, an amazing project that you can see [here](https://tom-mrt.fr).
-- I am a make movies
+- I creating movies
 - I love discover and learn everythings.
 
 <br>
