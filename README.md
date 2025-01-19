@@ -5,8 +5,9 @@
 
 ## Who am I ?
 
-- I am creating unique user experiences, an amazing project that you can see [here](https://tom-mrt.fr).
-- I creating movies
+- I am creating unique user experiences, an amazing project that you can see [here](https://paraleclypse.com).
+- I distribute short movie in movie theaters.
+- Manipulating some datas and cool stuff.
 - I love discover and learn everythings.
 
 <br>
